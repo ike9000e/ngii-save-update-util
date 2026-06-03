@@ -29,7 +29,8 @@ Basic Hex Editing Information
 	This program does not make any modifications to the saves besides
 	updating a 32-bit value that is a checksum of all the 
 	other 32-bit values.
-	
+
+
 Example save file editing
 ----------------------------------
 
@@ -45,3 +46,8 @@ Example save file editing
 	Close the save file in the hex editor.
 	Update the save file with this utility.
 
+
+Website
+-----------
+
+	https://github.com/ike9000e/ngii-save-update-util
