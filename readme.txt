@@ -6,8 +6,10 @@ NGII Save File Update Utility by ike9000
 	files so that they can be accepted by the game.
 	For mid- or transient-chapter saves.
 	
+	This utility is for saves created by Ninja Gaiden II, Xbox 360 game.
 	Compatible with saves created on Xenia emulator.
-	Xbox 360 saves are partially supported.
+	Xbox 360 specific save files, those with the CON header, 
+	are partially supported.
 	Command line utility.
 
 
