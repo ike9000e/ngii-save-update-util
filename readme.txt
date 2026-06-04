@@ -2,13 +2,13 @@
 NGII Save File Update Utility by ike9000
 --------------------------------------------
 
-	Program to update modified Ninja Gaiden II game save
+	Program to update modified Ninja Gaiden II game-save
 	files so that they can be accepted by the game.
-	Command line utility.
 	For mid- or transient-chapter saves.
 	
 	Compatible with saves created on Xenia emulator.
 	Xbox 360 saves are partially supported.
+	Command line utility.
 
 
 Usage Instructions
@@ -20,7 +20,7 @@ Usage Instructions
 	
 	Example:
 	
-		sg_util_ng_ii.exe "c:\path\to\ng2stryd02.dat"
+		sg_util_ng_ii.exe "c:\path\to\ng2stryd19.dat"
 
 
 Basic Hex Editing Information
